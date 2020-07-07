@@ -1,0 +1,6 @@
+Basic open tasks ..
+
+1 . list ec2 volumes which has only tags
+2 . list ec2 volumes which were encrypted
+3 . script to create secure access keys for iam user
+4 . 
